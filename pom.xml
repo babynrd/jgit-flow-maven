@@ -97,6 +97,8 @@
           <noDeploy>true</noDeploy>
           <squash>true</squash>
           <scmCommentPrefix>[RELEASE] </scmCommentPrefix>
+          <pushReleases>true</pushReleases>
+                    <allowUntracked>true</allowUntracked>
         </configuration>
       </plugin>
     </plugins>
